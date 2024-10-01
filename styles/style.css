@@ -7,3 +7,11 @@
     width: 33.3%;
     display: flex;
 }
+
+.container {
+    padding: 0;
+}
+
+.row {
+    margin: 0;
+}
