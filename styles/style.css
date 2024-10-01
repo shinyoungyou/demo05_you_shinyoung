@@ -1,1 +1,9 @@
 
+.card-img-top {
+    height: 262px;
+}
+
+.col {
+    width: 33.3%;
+    display: flex;
+}
